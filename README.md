@@ -274,7 +274,7 @@ work.
 
 ## Conclusion
 
-Congratulations. You know have the `while...do...end` construct as an ally.
+Congratulations. You now have the `while...do...end` construct as an ally.
 With an understanding of _sequence_, _selection_ and now _repetition_ on top of
 your experience with expressions, you can write powerful programs! Be sure and
 experiment with writing your own loops and don't forget, if your application is
